@@ -48,7 +48,7 @@ public class Signup1screen extends AppCompatActivity {
                         if (!password_.isEmpty()) {
                             password_var.setError(null);
                             password_var.setErrorEnabled(false);
-                            if (email_.matches("^(.+)@(.+)$")){
+                            if (email_.matches("(.+)@(.+)")){
                                 FirebaseDatabase = FirebaseDatabase.getInstance();
                                 reference = FirebaseDatabase.getReference("Datauser");
                                 String fullname_s = fullname_var.getEditText().getText().toString();
