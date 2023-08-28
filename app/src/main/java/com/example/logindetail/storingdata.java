@@ -1,16 +1,15 @@
 package com.example.logindetail;
 
 public class storingdata {
-    String name,username,email,phonenumber,password;
+    String name,username,email,password;
 
-    public storingdata() {
+    public storingdata(String fullname_s, String email_s, String username_s, String passwd_s) {
     }
 
     public storingdata(String name, String username, String email, String phonenumber, String password) {
         this.name = name;
         this.username = username;
         this.email = email;
-        this.phonenumber = phonenumber;
         this.password = password;
     }
 
@@ -36,14 +35,6 @@ public class storingdata {
 
     public void setEmail(String email) {
         this.email = email;
-    }
-
-    public String getPhonenumber() {
-        return phonenumber;
-    }
-
-    public void setPhonenumber(String phonenumber) {
-        this.phonenumber = phonenumber;
     }
 
     public String getPassword() {

@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "178197146781",
-    "project_id": "logindetail-efc17",
-    "storage_bucket": "logindetail-efc17.appspot.com"
+    "project_number": "326886515424",
+    "project_id": "movieheaven-1cc08",
+    "storage_bucket": "movieheaven-1cc08.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:178197146781:android:16637c04289f0b54dbf874",
+        "mobilesdk_app_id": "1:326886515424:android:f08334785e4d98e3e9e685",
         "android_client_info": {
           "package_name": "com.example.logindetail"
         }
       },
       "oauth_client": [
         {
-          "client_id": "178197146781-20o11cigu45iamjsg4bjhp9l5ad64jed.apps.googleusercontent.com",
+          "client_id": "326886515424-3n92sqbrgj4uprg3h9r0nfh8bs2fkg8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logindetail",
+            "certificate_hash": "a89f37b94ab4742a3ee70e621cccd88cf369834b"
+          }
+        },
+        {
+          "client_id": "326886515424-eg9g4dm7bm0dq5bc5j12kgdh4mdfarfs.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAic62_wFM-Xhbin5IJyY-IKOUUbuN6T4o"
+          "current_key": "AIzaSyCcjKze4m2tkLBIp1EfqYxbBdQIMbQMoJk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "178197146781-20o11cigu45iamjsg4bjhp9l5ad64jed.apps.googleusercontent.com",
+              "client_id": "326886515424-eg9g4dm7bm0dq5bc5j12kgdh4mdfarfs.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

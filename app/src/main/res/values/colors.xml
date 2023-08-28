@@ -3,4 +3,22 @@
     <color name="black">#FF000000</color>
     <color name="white">#E91E63</color>
     <color name="backgrounds">#FFEADD</color>
+    <color name="violate">#B920D3</color>
+        <color name="colorPrimary">#00bcd4</color>
+        <color name="colorPrimaryDark">#0097a7</color>
+        <color name="colorAccent">#f2fe71</color>
+
+
+        <color name="colorRed">#EB3349</color>
+        <color name="colorPink">#FF4081</color>
+        <color name="colorTransparentPink">#FF9EA1</color>
+
+        <color name="colorWhite">#FFFFFF</color>
+        <color name="colorTransparentWhite">#cccccc</color>
+        <color name="colorStandardBlack">#262626</color>
+        <color name="colorDarkBlue">#001621</color>
+        <color name="colorCyanBlue">#0B9BE2</color>
+        <color name="colorMidBlue">#032B3F</color>
+        <color name="colorCoinBackground">#01242b</color>
+
 </resources>
