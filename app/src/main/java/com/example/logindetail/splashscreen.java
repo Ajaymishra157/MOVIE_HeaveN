@@ -20,7 +20,7 @@ public class splashscreen extends AppCompatActivity {
         movieheaven = findViewById(R.id.movieheaven);
         lottie = findViewById(R.id.lottie);
 
-        movieheaven.animate().translationY(-1400).setDuration(2700).setStartDelay(0);
+        movieheaven.animate().translationY(-1000).setDuration(2700).setStartDelay(0);
 
         new Handler().postDelayed(new Runnable() {
             @Override
